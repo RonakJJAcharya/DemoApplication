@@ -1,0 +1,39 @@
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\obj\Debug\30.01 DemoApplication.Services.Test.csprojResolveAssemblyReference.cache
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\30.01 DemoApplication.Services.Test.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\30.01 DemoApplication.Services.Test.pdb
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\20 DemoApplication.Domain.Entities.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\30 DemoApplication.Services.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\CsvHelper.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\Elmah.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\50 DemoApplication.Core.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\20 DemoApplication.Domain.Entities.pdb
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\30 DemoApplication.Services.pdb
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\CsvHelper.xml
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\50 DemoApplication.Core.pdb
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\obj\Debug\30.01 DemoApplication.Services.Test.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\obj\Debug\30.01 DemoApplication.Services.Test.pdb
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\Castle.Core.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\Moq.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\Castle.Core.xml
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\Moq.xml
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\DemoApplication.Web.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\System.Web.Http.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\System.Web.Mvc.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\System.Web.Optimization.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\Ninject.Web.Common.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\Ninject.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\WebActivatorEx.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\System.Web.Http.WebHost.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\40 DemoApplication.DependencyResolution.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\System.Net.Http.Formatting.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\Newtonsoft.Json.dll
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\DemoApplication.Web.pdb
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\System.Web.Http.xml
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\System.Web.Mvc.xml
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\System.Web.Optimization.xml
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\Ninject.Web.Common.xml
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\Ninject.xml
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\System.Web.Http.WebHost.xml
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\40 DemoApplication.DependencyResolution.pdb
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\System.Net.Http.Formatting.xml
+E:\souce code\DemoApplication\30.01 DemoApplication.Services.Test\bin\Debug\Newtonsoft.Json.xml

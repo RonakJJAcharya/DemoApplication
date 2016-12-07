@@ -1,0 +1,10 @@
+E:\souce code\DemoApplication\50 DemoApplication.Core\obj\Debug\50 DemoApplication.Core.csprojResolveAssemblyReference.cache
+E:\souce code\DemoApplication\50 DemoApplication.Core\bin\Debug\50 DemoApplication.Core.dll
+E:\souce code\DemoApplication\50 DemoApplication.Core\bin\Debug\50 DemoApplication.Core.pdb
+E:\souce code\DemoApplication\50 DemoApplication.Core\bin\Debug\20 DemoApplication.Domain.Entities.dll
+E:\souce code\DemoApplication\50 DemoApplication.Core\bin\Debug\CsvHelper.dll
+E:\souce code\DemoApplication\50 DemoApplication.Core\bin\Debug\Elmah.dll
+E:\souce code\DemoApplication\50 DemoApplication.Core\bin\Debug\20 DemoApplication.Domain.Entities.pdb
+E:\souce code\DemoApplication\50 DemoApplication.Core\bin\Debug\CsvHelper.xml
+E:\souce code\DemoApplication\50 DemoApplication.Core\obj\Debug\50 DemoApplication.Core.dll
+E:\souce code\DemoApplication\50 DemoApplication.Core\obj\Debug\50 DemoApplication.Core.pdb

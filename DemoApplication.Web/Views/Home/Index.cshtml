@@ -1,0 +1,135 @@
+﻿<script src="~/ScriptsNg/AngularControllers/EmployeeIncomeController.js"></script>
+
+<html data-ng-app="EmployeeTotalIncomeModule">
+@{
+    ViewBag.Title = "Index";
+}
+    <h2>test</h2>    
+
+    <body data-ng-controller="EmployeeTotalIncomeController">
+        
+        <table style="width:100%">
+            <tr>
+                <td>
+                    Employee Income
+                </td>
+                
+            </tr>
+        </table>
+        <table id ="tblContainer" style="width: 100%; table-layout:fixed">
+            <tr data-ng-show="EmployeeIncomeList">
+                <td>
+                    <table class="Generic">
+                        <tr style="height: 30px; background-color:#0A6CCE ; color:white ;border: solid 1px #0A6CCE;">                                   
+                                    <td> Year </td>
+                                    <td> January </td>
+                                    <td> February </td>
+                                    <td> March </td>
+                                    <td> April </td>
+                                    <td> May </td>
+                                    <td> June </td>
+                                    <td> July </td>
+                                    <td> August </td>
+                                    <td> September </td>
+                                    <td> October </td>
+                                    <td> November </td>
+                                    <td> December </td>
+                                </tr>
+                        <tbody data-ng-repeat="val in EmployeeIncome">
+                            <tr>
+                                <td>
+                                    <span> {{ val.year }} </span>
+                                </td>
+                                <td>
+                                    <span> {{ val.january }} </span>
+                                </td>
+                                <td>
+                                    <span> {{ val.february }} </span>
+                                </td>
+                                <td>
+                                    <span> {{ val.march }} </span>
+                                </td>
+                                <td>
+                                    <span> {{ val.april }} </span>
+                                </td>
+                                <td>
+                                    <span> {{ val.may }} </span>
+                                </td>
+                                <td>
+                                    <span> {{ val.june }} </span>
+                                </td>
+                                <td>
+                                    <span> {{ val.july }} </span>
+                                </td>
+                                <td>
+                                    <span> {{ val.august }} </span>
+                                </td>
+                                <td>
+                                    <span> {{ val.september }} </span>
+                                </td>
+                                <td>
+                                    <span> {{ val.october }} </span>
+                                </td>
+                                <td>
+                                    <span> {{ val.november }} </span>
+                                </td>
+                                <td>
+                                    <span> {{ val.december }} </span>
+                                </td>
+                                
+                            </tr>
+                        </tbody>                        
+                    </table>
+                </td>
+            </tr>
+            
+            <tr data-ng-show="AverageEmployeeIncomeList">
+                <td>
+                    <table class="Generic">
+                        <tr style="height: 30px; background-color:silver ; color:#000 ; font-weight: bold; border: solid 1px">                                   
+                                    <td> Year </td>
+                                    <td> Average Income </td>                                    
+                                </tr>
+                        <tbody data-ng-repeat="val in AverageEmployeeIncome">
+                            <tr>
+                                <td>
+                                    <span> {{ val.year }} </span>
+                                </td>
+                                <td>
+                                    <span> {{ val.averageIncome }} </span>
+                                </td>
+                                
+                                
+                            </tr>
+                        </tbody>                        
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+
+</html>
+<style type="text/css">
+
+    table.Generic {
+        border: solid 2px #0A6CCE;
+        width: 100%; 
+        table-layout: fixed;        
+    }
+
+    table.Generic td {
+        width:50px; 
+        text-align:center
+    }
+    
+    table.Generic tbody td {
+        border: solid 1px #0A6CCE; padding: 5px;table-layout:fixed;
+    }
+    table.Generic tbody td span {
+        color:#9F000F
+    }
+</style>
+
+
+
+

@@ -1,0 +1,22 @@
+E:\souce code\DemoApplication.Web\40 DemoApplication.DependencyResolution\bin\Debug\40 DemoApplication.DependencyResolution.dll
+E:\souce code\DemoApplication.Web\40 DemoApplication.DependencyResolution\bin\Debug\40 DemoApplication.DependencyResolution.pdb
+E:\souce code\DemoApplication.Web\40 DemoApplication.DependencyResolution\bin\Debug\Ninject.dll
+E:\souce code\DemoApplication.Web\40 DemoApplication.DependencyResolution\obj\Debug\40 DemoApplication.DependencyResolution.csprojResolveAssemblyReference.cache
+E:\souce code\DemoApplication.Web\40 DemoApplication.DependencyResolution\obj\Debug\40 DemoApplication.DependencyResolution.dll
+E:\souce code\DemoApplication.Web\40 DemoApplication.DependencyResolution\obj\Debug\40 DemoApplication.DependencyResolution.pdb
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\bin\Debug\40 DemoApplication.DependencyResolution.dll
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\bin\Debug\40 DemoApplication.DependencyResolution.pdb
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\bin\Debug\30 DemoApplication.Services.dll
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\bin\Debug\50 DemoApplication.Core.dll
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\bin\Debug\Ninject.dll
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\bin\Debug\20 DemoApplication.Domain.Entities.dll
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\bin\Debug\CsvHelper.dll
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\bin\Debug\Elmah.dll
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\bin\Debug\30 DemoApplication.Services.pdb
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\bin\Debug\50 DemoApplication.Core.pdb
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\bin\Debug\Ninject.xml
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\bin\Debug\20 DemoApplication.Domain.Entities.pdb
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\bin\Debug\CsvHelper.xml
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\obj\Debug\40 DemoApplication.DependencyResolution.csprojResolveAssemblyReference.cache
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\obj\Debug\40 DemoApplication.DependencyResolution.dll
+E:\souce code\DemoApplication\40 DemoApplication.DependencyResolution\obj\Debug\40 DemoApplication.DependencyResolution.pdb

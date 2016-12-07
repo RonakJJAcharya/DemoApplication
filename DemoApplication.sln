@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10 DemoApplication.Web", "DemoApplication.Web\10 DemoApplication.Web.csproj", "{6B605A72-DB1B-4485-B06F-ACF850CBAAE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40 DemoApplication.DependencyResolution", "40 DemoApplication.DependencyResolution\40 DemoApplication.DependencyResolution.csproj", "{ACE9B434-17D6-4EE1-82EC-6DC1437C4F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20 DemoApplication.Domain.Entities", "20 DemoApplication.Domain.Entities\20 DemoApplication.Domain.Entities.csproj", "{A0F31650-3782-4A11-9081-373F1290BB5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30 DemoApplication.Services", "30 DemoApplication.Services\30 DemoApplication.Services.csproj", "{5A549198-9BF2-4487-926B-872BEDD2D0E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50 DemoApplication.Core", "50 DemoApplication.Core\50 DemoApplication.Core.csproj", "{2BD680B7-0A49-4BC1-B626-353FE08A266C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "References", "References", "{CCE9B730-F243-4878-AAEB-3FE7C414DE6F}"
+	ProjectSection(SolutionItems) = preProject
+		20 DemoApplication.Domain.Entities\bin\Debug\Elmah.dll = 20 DemoApplication.Domain.Entities\bin\Debug\Elmah.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30.01 DemoApplication.Services.Test", "30.01 DemoApplication.Services.Test\30.01 DemoApplication.Services.Test.csproj", "{DE6C8EEF-37C4-48D8-A2EB-43C4F6A9AB5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B605A72-DB1B-4485-B06F-ACF850CBAAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B605A72-DB1B-4485-B06F-ACF850CBAAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B605A72-DB1B-4485-B06F-ACF850CBAAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B605A72-DB1B-4485-B06F-ACF850CBAAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE9B434-17D6-4EE1-82EC-6DC1437C4F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE9B434-17D6-4EE1-82EC-6DC1437C4F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE9B434-17D6-4EE1-82EC-6DC1437C4F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE9B434-17D6-4EE1-82EC-6DC1437C4F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F31650-3782-4A11-9081-373F1290BB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F31650-3782-4A11-9081-373F1290BB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F31650-3782-4A11-9081-373F1290BB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F31650-3782-4A11-9081-373F1290BB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A549198-9BF2-4487-926B-872BEDD2D0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A549198-9BF2-4487-926B-872BEDD2D0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A549198-9BF2-4487-926B-872BEDD2D0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A549198-9BF2-4487-926B-872BEDD2D0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BD680B7-0A49-4BC1-B626-353FE08A266C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD680B7-0A49-4BC1-B626-353FE08A266C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD680B7-0A49-4BC1-B626-353FE08A266C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD680B7-0A49-4BC1-B626-353FE08A266C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6C8EEF-37C4-48D8-A2EB-43C4F6A9AB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6C8EEF-37C4-48D8-A2EB-43C4F6A9AB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6C8EEF-37C4-48D8-A2EB-43C4F6A9AB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6C8EEF-37C4-48D8-A2EB-43C4F6A9AB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
